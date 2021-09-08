@@ -1,5 +1,8 @@
 ### Hi there 👋
+### My name is Myunghyun Kim!
 
+## 🔭 I’m now learning at 'Digipen Institute of Technology'
+## 🌱 I’m currently learning 'C++'
 <!--
 **MyunghyunKim0227/MyunghyunKim0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
